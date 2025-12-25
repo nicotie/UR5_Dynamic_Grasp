@@ -1,0 +1,6 @@
+[submodule "anygrasp_sdk"]
+	path = anygrasp_sdk
+	url = https://github.com/graspnet/anygrasp_sdk.git
+[submodule "graspnet-baseline"]
+	path = graspnet-baseline
+	url = https://github.com/graspnet/graspnet-baseline.git
