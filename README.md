@@ -16,8 +16,9 @@ This project demonstrates tracking and grasping of dynamic objects using the UR5
 
 ## Run demo
 ```
-python rotate.py
-python y_only.py
+# python rotate.py
+# python y_only.py
+python pbvs.py
 ```
 
 ## Troubleshooting
@@ -37,3 +38,4 @@ python y_only.py
 
 
 MIT
+
